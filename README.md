@@ -1,5 +1,7 @@
 # Hey, I'm Akbar
 
+<img src="https://komarev.com/ghpvc/?username=AkbarDevop&style=flat-square&color=D97757" alt="Profile views" />
+
 **Electrical Engineering @ Mizzou | From Uzbekistan | Builder**
 
 I build AI agents, computer vision pipelines, and open source tools that solve real problems. Currently doing CV research at Mizzou's [Precision and Automated Agriculture Lab](https://cafnrfaculty.missouri.edu/mupaa/) — and shipping side projects every week with Claude Code.
@@ -7,6 +9,15 @@ I build AI agents, computer vision pipelines, and open source tools that solve r
 [![Website](https://img.shields.io/badge/akbar.one-000?style=for-the-badge&logo=safari&logoColor=white)](https://akbar.one)
 [![X](https://img.shields.io/badge/@mendurmen-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mendurmen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akbarjon-kamoldinov)
+
+---
+
+### What I'm Up To
+
+- Researching **sow posture classification** with multi-modal depth sensing at Mizzou's PAAL lab
+- Building AI agents and shipping tools with **Claude Code** — every week
+- Growing the **[Mizzou Claude Builders Club](https://github.com/AkbarDevop/mizzou-cbc)** — first university Claude Code community
+- Learning **embedded systems**, **edge ML deployment**, and **Rust**
 
 ---
 
@@ -45,3 +56,9 @@ I build AI agents, computer vision pipelines, and open source tools that solve r
   <img src="https://github-readme-stats.vercel.app/api?username=AkbarDevop&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AkbarDevop&theme=dark&hide_border=true" height="165" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkbarDevop/AkbarDevop/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkbarDevop/AkbarDevop/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AkbarDevop/AkbarDevop/output/github-snake-dark.svg" width="100%" />
+</picture>
